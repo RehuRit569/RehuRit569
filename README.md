@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <div align="center">
-💰 Aspiring Financial Data Analyst & Quantitative Analyst  <br>📊 Passionate about finance, technology & data-driven decisions  <br>🐍 Python | SQL | Excel | Statistics | Financial Modeling  <br>📈 Exploring Quantitative Finance & Algorithmic Trading  <br>🎯 SRCC Aspirant | Economics & Finance Enthusiast  <br>🚀 Always learning & building finance-tech projects!  
+💰 Aspiring Financial Data Analyst & Quantitative Analyst  <br> Passionate about finance, technology & data-driven decisions  <br>🐍 Python | SQL | Excel | Statistics | Financial Modeling  <br>📈 Exploring Quantitative Finance & Algorithmic Trading  <br>🎯 SRCC Aspirant | Economics & Finance Enthusiast  <br>🚀 Always learning & building finance-tech projects!  
 </div>
 
 ## 🌐 Socials:
@@ -46,13 +46,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=RehuRit569&limit=5&theme=merko&combine_all_yearly_contributions=true">
-</div>
-
 ---
-<div align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RehuRit569&icon=7&color=13"></a>
-</div>
 
