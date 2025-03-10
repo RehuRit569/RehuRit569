@@ -43,7 +43,7 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
 </div>
 
 ---
