@@ -4,7 +4,7 @@
 
 #  About Me:
 <div align="center">
- Aspiring Financial Data Analyst & Quantitative Analyst  <br> Passionate about finance, technology & data-driven decisions  <br> Python | SQL | Excel | Statistics  <br> Exploring Quantitative Finance  <br> Economics & Finance Enthusiast  <br>  
+ Aspiring Financial Data Analyst & Quantitative Analyst  <br> Passionate about finance, technology & data-driven decisions  <br> Python | SQL | Excel | Statistics  <br> Exploring Quantitative Finance  <br> Economics & Finance learner  <br>  
 </div>
 
 ##  Socials:
